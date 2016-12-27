@@ -10,6 +10,7 @@ coverage
 build
 
 # misc
+readme2.md
 .DS_Store
 .env
 npm-debug.log
